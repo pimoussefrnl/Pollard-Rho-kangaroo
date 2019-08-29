@@ -1,7 +1,7 @@
 Pollard rho Kangaroo & Quadratic-sieve Cuda
 Pollard_s kangaroo-Windows 10, Ubuntu 18.04 LTS
 
-For both the tame and wild kangaroo, the (i+1)st hop that the kangaroo takes, wi+1, is given by wi+1=wi⊕(H(wi+1)⊗G) Here, H is a hash function, ⊗ is scalar multiplication, and ⊕ is point addition on an elliptic curve, and G is a base point on the curve. You can also compute the distance di that each kangaroo travels after i steps, with d0=0 and di+1=di+H(wi). If you want to search for a discrete log in an interval [a,b], let the tame kangaroo lay N "traps", one at each hop. Then set the wild kangaroo loose, starting at bG. The hope is that the wild kangaroo will hop into a tame trap. If their paths intersect, we immediately have a solution to the ECDLP. program to find discrete logarithms using Pollard's lambda method for catching kangaroos. This algorithm appears to be the best 
+For both the tame and wild kangaroo, the (i+1)st hop that the kangaroo takes, wi+1, is given by wi+1=wi⊕(H(wi+1)⊗G) Here, H is a hash function, ⊗ is scalar multiplication, and ⊕ is point addition on an elliptic curve, and G is a base point on the curve. You can also compute the distance di that each kangaroo travels after i steps, with d0=0 and di+1=di+H(wi). If you want to search for a discrete log in an interval [a,b], let the tame kangaroo lay N "traps", one at each hop. Then set the wild kangaroo loose, starting at bG. The hope is that the wild kangaroo will hop into a tame trap. If their paths intersect, we immediately have a solution to the ECDLP. program to find discrete logarithms using Pollard's lambda method for catching kangaroos. This algorithm appears to be the best. 
 
 Tutorial PDF
 
