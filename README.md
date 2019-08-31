@@ -11,8 +11,18 @@ Linux: File: Pollard_s kangaroo make all run ./pkangaroo
 
 https://en.wikipedia.org/wiki/Pollard%27s_kangaroo_algorithm
 
+Demo 105Bit search
+-----
+pollaed-rho-kangaroo(105Bit).exe
 
-FULL Code: Cuda 10.1 Windows, Linux
+pollaed-rho-kangaroo-V2-(105Bit).exe
+
+
+FULL Code Cuda:
+---------------
+
+Cuda 10.1 Windows, Linux
+------------------------
 https://satoshidisk.com/pay/C7KL4U
 
 Bitcoin challenge transaction: ~102 BTC total bounty to solvers!
