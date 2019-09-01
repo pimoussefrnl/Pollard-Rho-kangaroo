@@ -14,8 +14,8 @@ https://en.wikipedia.org/wiki/Pollard%27s_kangaroo_algorithm
 Demo 105Bit search
 -----
 pollaed-rho-kangaroo(105Bit).exe
+gmpy2.pyd
 
-pollaed-rho-kangaroo-V2-(105Bit).exe
 
 
 FULL Code Cuda:
